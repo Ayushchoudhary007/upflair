@@ -1,0 +1,62 @@
+  background-image: url("img_tree.png");
+  background-repeat: no-repeat;
+  background-position: right top;
+
+border-style: dotted;
+border-style: dashed;
+border-style: solid;
+border-style: double;
+border-style: groove;
+border-style: ridge;
+border-style: inset;
+border-style: outset;
+border-style: none;
+border-style: hidden;
+border-style: dotted dashed solid double;
+
+margin collapse/*(margin: 25px 50px 75px;)*/
+
+
+a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+/* HTML TAGS TO KNOW */
+
+<a href="mailto:someone@example.com">Send email</a>
+
+The HTML <blockquote> element defines a section that is quoted from another source.
+Browsers usually indent <blockquote> elements.
+
+The HTML <q> tag defines a short quotation.
+Browsers normally insert quotation marks around the quotation.
+
+The HTML <abbr> tag defines an abbreviation or an acronym, like "HTML", "CSS", "Mr.", "Dr.", "ASAP", "ATM".
+<p>The <abbr title="World Health Organization">WHO</abbr> was founded in 1948.</p>
+
+The HTML <address> tag defines the contact information for the author/owner of a document or an article.
+
+The HTML <cite> tag defines the title of a creative work (e.g. a book, a poem, a song, a movie, a painting, a sculpture, etc.)
+
+The HTML <bdo> tag is used to override the current text direction:
+
